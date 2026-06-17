@@ -1,0 +1,8 @@
+{
+  "name": "astock-monitor",
+  "version": "1.0.0",
+  "description": "A股实时盯盘系统",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
